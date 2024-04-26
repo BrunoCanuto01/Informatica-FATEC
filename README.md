@@ -10,10 +10,11 @@ https://dados.antt.gov.br/
 
 
 Esses dados estão anexados no repertório em formato .CSV.
+
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-Bruno Canuto              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-canuto-746944291/?trk=opento_sprofile_topcard/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)        |
+| Team Member   | Bruno Canuto              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-canuto-746944291/?trk=opento_sprofile_topcard/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)        |
 
 
 # Objetivo do Projeto
