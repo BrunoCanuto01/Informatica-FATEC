@@ -42,6 +42,8 @@ Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
 
 # Power Automate
 
+![Captura de tela 2024-06-07 191544](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/55f43647-72d5-4988-8103-0217e5b0894c)
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
