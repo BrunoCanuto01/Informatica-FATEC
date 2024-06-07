@@ -25,6 +25,7 @@ Os dados estão anexados no repertório em formato .CSV.
 Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
 
  > * Panelas de Pressão
+
 ![Panlelas pressão](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/2fcc4947-4a98-4c3b-81ef-81844cb97d12)
 
 ![image](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/f0f4651d-433b-4d1a-8ab0-97504449f230)
