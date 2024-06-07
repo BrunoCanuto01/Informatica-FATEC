@@ -11,6 +11,7 @@ Trabalho realizado na aula de Informática Aplicada à Logística. FATEC São Jo
 
 Arquivo de visualização dados no Porwer BI, referente a multas por excesso de velocidade na Rodovia do Aço.
 
+![Power BI](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/72a53306-27d0-4188-a6f2-c1acb602f254)
 
 
 # Dados .CSV
