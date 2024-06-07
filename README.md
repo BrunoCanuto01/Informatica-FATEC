@@ -32,6 +32,15 @@ Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
 
 ![image](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/c3827abf-313f-415b-bbff-138f9aa6e4c9)
 
+> * Produtos
+
+![produtos](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/49158112-2430-4083-8872-bc56ce0fc430)
+
+> * Sorvete
+
+![image](https://github.com/BrunoCanuto01/Visualiza-o-de-Power-BI/assets/165228082/37f6f307-d13e-41b5-bfde-a5f5745b6424)
+
+# Power Automate
 
 
 # Equipe
