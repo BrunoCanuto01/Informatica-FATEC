@@ -44,6 +44,8 @@ Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
 
 ![Captura de tela 2024-06-07 191544](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/55f43647-72d5-4988-8103-0217e5b0894c)
 
+![Screenshot_20240607_191833_Gmail](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/b4fd09ed-ae1e-48c5-b690-6c138ecde31d)
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -58,5 +60,6 @@ Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
  > * Power BI
  > * Excel
 >  * Power Automate
+>  * Power Point
 >  * Microsoft Forms
 >  * Microsoft Teams
