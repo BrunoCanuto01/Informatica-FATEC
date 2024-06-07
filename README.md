@@ -1,8 +1,8 @@
 # Atividades realizadas na aula de Informática
 Cinco atividades foram realizadas no total. No quais foram desenvolvidas durante o semestre.
- > *1 Desenvolver um Dashboard com dados abertos no Power BI;
- > 2 Criação de tabelas no Excel (Panelas e Sorvetes);
- > 3 Power Automate;
+ > * Desenvolver um Dashboard com dados abertos no Power BI;
+ > * Criação de tabelas no Excel (Panelas e Sorvetes);
+ >3 Power Automate;
  > 4 Power Point;
  > 5 Power Apps (Não realizado).
 
