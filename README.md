@@ -7,7 +7,7 @@ Cinco atividades foram realizadas no total. No quais foram desenvolvidas durante
  > * Power Apps (Não realizado).
 
 
-# Visualização do Power BI
+# Power BI
 Trabalho realizado na aula de Informática Aplicada à Logística. FATEC São José dos Campos - Logística
 
 Arquivo de visualização dados no Porwer BI, referente a multas por excesso de velocidade na Rodovia do Aço.
@@ -46,6 +46,15 @@ Dentro das planilhas do excel, foi criado 3 páginas, sendo elas:
 ![Captura de tela 2024-06-07 191544](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/55f43647-72d5-4988-8103-0217e5b0894c)
 
 ![Screenshot_20240607_191833_Gmail](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/b4fd09ed-ae1e-48c5-b690-6c138ecde31d)
+
+# Power Point
+Apresentação realizada no incio do curso.
+
+![Captura de tela 2024-06-07 192817](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/22183c6b-904d-45ac-a5f5-d17c66bbbb58)
+
+![Captura de tela 2024-06-07 192835](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/36ff11f2-a3c6-4e7a-bfd4-a54abedf235b)
+
+![Captura de tela 2024-06-07 192910](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/080cdc31-c135-4584-b173-427f16ccbd65)
 
 
 # Equipe
