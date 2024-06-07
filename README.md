@@ -54,6 +54,8 @@ Apresentação realizada no incio do curso.
 
 ![Captura de tela 2024-06-07 192835](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/36ff11f2-a3c6-4e7a-bfd4-a54abedf235b)
 
+![Captura de tela 2024-06-07 192858](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/4fdfa88d-5814-486f-a5ff-9186a836a3c0)
+
 ![Captura de tela 2024-06-07 192910](https://github.com/BrunoCanuto01/Informatica-FATEC/assets/165228082/080cdc31-c135-4584-b173-427f16ccbd65)
 
 
